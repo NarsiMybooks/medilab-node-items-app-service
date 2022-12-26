@@ -13,7 +13,8 @@ const data = [
     { id: 7, title: 'Have a plate of Meal', order: 7, completed: false, createdOn: new Date() },
     { id: 8, title: 'Dinner Meal: Biryani', order: 8, completed: false, createdOn: new Date() },
     { id: 9, title: 'Lunch Meal: Biryani', order: 9, completed: true, createdOn: new Date() },
-    { id: 10, title: 'Breakfast Meal: Biryani', order: 10, completed: true, createdOn: new Date() }
+    { id: 10, title: 'Breakfast Meal: Biryani', order: 10, completed: true, createdOn: new Date() },
+    { id: 11, title: 'Family Combo', order: 11, completed: false, createdOn: new Date() }
 ];
 
 // READ
